@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,materialui,ts,html,css,gcp,express,firebase,github,graphql,redux,heroku,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,materialui,ts,html,css,gcp,nodejs,express,firebase,mongodb,git,github,graphql,redux,vercel,gcp,heroku,postgres&perline=10)](https://skillicons.dev)
 
 <!--
 **krik-chry/krik-chry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
